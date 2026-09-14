@@ -1,0 +1,8 @@
+all in one process
+0. git init already done
+1. git add .
+2. git status
+3. git commit
+4. git status
+5. git push
+6. git status
